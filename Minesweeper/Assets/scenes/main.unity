@@ -123,6 +123,7 @@ GameObject:
   - component: {fileID: 49643201}
   - component: {fileID: 49643200}
   - component: {fileID: 49643203}
+  - component: {fileID: 49643202}
   m_Layer: 0
   m_Name: unexplored (76)
   m_TagString: Untagged
@@ -187,6 +188,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 77
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &49643202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 49643199}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &49643203
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -222,6 +246,7 @@ GameObject:
   - component: {fileID: 51375997}
   - component: {fileID: 51375996}
   - component: {fileID: 51375999}
+  - component: {fileID: 51375998}
   m_Layer: 0
   m_Name: unexplored (94)
   m_TagString: Untagged
@@ -286,6 +311,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 95
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &51375998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 51375995}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &51375999
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -321,6 +369,7 @@ GameObject:
   - component: {fileID: 80600509}
   - component: {fileID: 80600508}
   - component: {fileID: 80600511}
+  - component: {fileID: 80600510}
   m_Layer: 0
   m_Name: unexplored (48)
   m_TagString: Untagged
@@ -385,6 +434,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 49
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &80600510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 80600507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &80600511
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -420,6 +492,7 @@ GameObject:
   - component: {fileID: 97554346}
   - component: {fileID: 97554345}
   - component: {fileID: 97554348}
+  - component: {fileID: 97554347}
   m_Layer: 0
   m_Name: unexplored (115)
   m_TagString: Untagged
@@ -484,6 +557,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 116
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &97554347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 97554344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &97554348
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -519,6 +615,7 @@ GameObject:
   - component: {fileID: 99609132}
   - component: {fileID: 99609131}
   - component: {fileID: 99609134}
+  - component: {fileID: 99609133}
   m_Layer: 0
   m_Name: unexplored (73)
   m_TagString: Untagged
@@ -583,6 +680,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 74
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &99609133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 99609130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &99609134
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -618,6 +738,7 @@ GameObject:
   - component: {fileID: 116482508}
   - component: {fileID: 116482507}
   - component: {fileID: 116482510}
+  - component: {fileID: 116482509}
   m_Layer: 0
   m_Name: unexplored (83)
   m_TagString: Untagged
@@ -682,6 +803,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 84
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &116482509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 116482506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &116482510
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -717,6 +861,7 @@ GameObject:
   - component: {fileID: 139279804}
   - component: {fileID: 139279803}
   - component: {fileID: 139279806}
+  - component: {fileID: 139279805}
   m_Layer: 0
   m_Name: unexplored (101)
   m_TagString: Untagged
@@ -781,6 +926,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 102
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &139279805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 139279802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &139279806
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -816,6 +984,7 @@ GameObject:
   - component: {fileID: 141152810}
   - component: {fileID: 141152809}
   - component: {fileID: 141152812}
+  - component: {fileID: 141152811}
   m_Layer: 0
   m_Name: unexplored (29)
   m_TagString: Untagged
@@ -880,6 +1049,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &141152811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 141152808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &141152812
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -915,6 +1107,7 @@ GameObject:
   - component: {fileID: 155147669}
   - component: {fileID: 155147668}
   - component: {fileID: 155147671}
+  - component: {fileID: 155147670}
   m_Layer: 0
   m_Name: unexplored (55)
   m_TagString: Untagged
@@ -979,6 +1172,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 56
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &155147670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 155147667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &155147671
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1014,6 +1230,7 @@ GameObject:
   - component: {fileID: 178314341}
   - component: {fileID: 178314340}
   - component: {fileID: 178314343}
+  - component: {fileID: 178314342}
   m_Layer: 0
   m_Name: unexplored (31)
   m_TagString: Untagged
@@ -1078,6 +1295,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &178314342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 178314339}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &178314343
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1113,6 +1353,7 @@ GameObject:
   - component: {fileID: 182746842}
   - component: {fileID: 182746841}
   - component: {fileID: 182746844}
+  - component: {fileID: 182746843}
   m_Layer: 0
   m_Name: unexplored (60)
   m_TagString: Untagged
@@ -1177,6 +1418,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 61
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &182746843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 182746840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &182746844
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1212,6 +1476,7 @@ GameObject:
   - component: {fileID: 199666211}
   - component: {fileID: 199666210}
   - component: {fileID: 199666213}
+  - component: {fileID: 199666212}
   m_Layer: 0
   m_Name: unexplored (25)
   m_TagString: Untagged
@@ -1276,6 +1541,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &199666212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 199666209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &199666213
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1311,6 +1599,7 @@ GameObject:
   - component: {fileID: 215126449}
   - component: {fileID: 215126448}
   - component: {fileID: 215126451}
+  - component: {fileID: 215126450}
   m_Layer: 0
   m_Name: unexplored (85)
   m_TagString: Untagged
@@ -1375,6 +1664,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 86
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &215126450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 215126447}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &215126451
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1410,6 +1722,7 @@ GameObject:
   - component: {fileID: 217316413}
   - component: {fileID: 217316412}
   - component: {fileID: 217316415}
+  - component: {fileID: 217316414}
   m_Layer: 0
   m_Name: unexplored (20)
   m_TagString: Untagged
@@ -1474,6 +1787,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &217316414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 217316411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &217316415
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1509,6 +1845,7 @@ GameObject:
   - component: {fileID: 250803108}
   - component: {fileID: 250803107}
   - component: {fileID: 250803110}
+  - component: {fileID: 250803109}
   m_Layer: 0
   m_Name: unexplored (108)
   m_TagString: Untagged
@@ -1573,6 +1910,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 109
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &250803109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 250803106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &250803110
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1608,6 +1968,7 @@ GameObject:
   - component: {fileID: 271629457}
   - component: {fileID: 271629456}
   - component: {fileID: 271629459}
+  - component: {fileID: 271629458}
   m_Layer: 0
   m_Name: unexplored (7)
   m_TagString: Untagged
@@ -1672,6 +2033,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &271629458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 271629455}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &271629459
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1707,6 +2091,7 @@ GameObject:
   - component: {fileID: 291925198}
   - component: {fileID: 291925197}
   - component: {fileID: 291925200}
+  - component: {fileID: 291925199}
   m_Layer: 0
   m_Name: unexplored (53)
   m_TagString: Untagged
@@ -1771,6 +2156,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 54
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &291925199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 291925196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &291925200
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1806,6 +2214,7 @@ GameObject:
   - component: {fileID: 337968943}
   - component: {fileID: 337968942}
   - component: {fileID: 337968945}
+  - component: {fileID: 337968944}
   m_Layer: 0
   m_Name: unexplored (2)
   m_TagString: Untagged
@@ -1870,6 +2279,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &337968944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 337968941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &337968945
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1905,6 +2337,7 @@ GameObject:
   - component: {fileID: 370120860}
   - component: {fileID: 370120859}
   - component: {fileID: 370120862}
+  - component: {fileID: 370120861}
   m_Layer: 0
   m_Name: unexplored (41)
   m_TagString: Untagged
@@ -1969,6 +2402,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 42
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &370120861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 370120858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &370120862
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2004,6 +2460,7 @@ GameObject:
   - component: {fileID: 389297361}
   - component: {fileID: 389297360}
   - component: {fileID: 389297363}
+  - component: {fileID: 389297362}
   m_Layer: 0
   m_Name: unexplored (38)
   m_TagString: Untagged
@@ -2068,6 +2525,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &389297362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 389297359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &389297363
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2103,6 +2583,7 @@ GameObject:
   - component: {fileID: 399760005}
   - component: {fileID: 399760004}
   - component: {fileID: 399760007}
+  - component: {fileID: 399760006}
   m_Layer: 0
   m_Name: unexplored (116)
   m_TagString: Untagged
@@ -2167,6 +2648,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 117
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &399760006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 399760003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &399760007
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2202,6 +2706,7 @@ GameObject:
   - component: {fileID: 406492014}
   - component: {fileID: 406492013}
   - component: {fileID: 406492016}
+  - component: {fileID: 406492015}
   m_Layer: 0
   m_Name: unexplored (98)
   m_TagString: Untagged
@@ -2266,6 +2771,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 99
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &406492015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 406492012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &406492016
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2301,6 +2829,7 @@ GameObject:
   - component: {fileID: 429054327}
   - component: {fileID: 429054326}
   - component: {fileID: 429054329}
+  - component: {fileID: 429054328}
   m_Layer: 0
   m_Name: unexplored (67)
   m_TagString: Untagged
@@ -2365,6 +2894,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 68
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &429054328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 429054325}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &429054329
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2400,6 +2952,7 @@ GameObject:
   - component: {fileID: 434875761}
   - component: {fileID: 434875760}
   - component: {fileID: 434875763}
+  - component: {fileID: 434875762}
   m_Layer: 0
   m_Name: unexplored (124)
   m_TagString: Untagged
@@ -2464,6 +3017,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 125
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &434875762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 434875759}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &434875763
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2499,6 +3075,7 @@ GameObject:
   - component: {fileID: 440147613}
   - component: {fileID: 440147612}
   - component: {fileID: 440147615}
+  - component: {fileID: 440147614}
   m_Layer: 0
   m_Name: unexplored (102)
   m_TagString: Untagged
@@ -2563,6 +3140,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 103
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &440147614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 440147611}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &440147615
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2598,6 +3198,7 @@ GameObject:
   - component: {fileID: 448837812}
   - component: {fileID: 448837811}
   - component: {fileID: 448837814}
+  - component: {fileID: 448837813}
   m_Layer: 0
   m_Name: unexplored (40)
   m_TagString: Untagged
@@ -2662,6 +3263,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &448837813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 448837810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &448837814
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2697,6 +3321,7 @@ GameObject:
   - component: {fileID: 480665094}
   - component: {fileID: 480665093}
   - component: {fileID: 480665096}
+  - component: {fileID: 480665095}
   m_Layer: 0
   m_Name: unexplored (125)
   m_TagString: Untagged
@@ -2761,6 +3386,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 126
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &480665095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 480665092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &480665096
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2796,6 +3444,7 @@ GameObject:
   - component: {fileID: 497719535}
   - component: {fileID: 497719534}
   - component: {fileID: 497719537}
+  - component: {fileID: 497719536}
   m_Layer: 0
   m_Name: unexplored (34)
   m_TagString: Untagged
@@ -2860,6 +3509,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &497719536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 497719533}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &497719537
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2895,6 +3567,7 @@ GameObject:
   - component: {fileID: 501345801}
   - component: {fileID: 501345800}
   - component: {fileID: 501345803}
+  - component: {fileID: 501345802}
   m_Layer: 0
   m_Name: unexplored (119)
   m_TagString: Untagged
@@ -2959,6 +3632,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 120
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &501345802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 501345799}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &501345803
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2994,6 +3690,7 @@ GameObject:
   - component: {fileID: 528811976}
   - component: {fileID: 528811975}
   - component: {fileID: 528811978}
+  - component: {fileID: 528811977}
   m_Layer: 0
   m_Name: unexplored (45)
   m_TagString: Untagged
@@ -3058,6 +3755,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 46
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &528811977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 528811974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &528811978
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3093,6 +3813,7 @@ GameObject:
   - component: {fileID: 544430630}
   - component: {fileID: 544430629}
   - component: {fileID: 544430632}
+  - component: {fileID: 544430631}
   m_Layer: 0
   m_Name: unexplored (28)
   m_TagString: Untagged
@@ -3157,6 +3878,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &544430631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 544430628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &544430632
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3192,6 +3936,7 @@ GameObject:
   - component: {fileID: 562237533}
   - component: {fileID: 562237532}
   - component: {fileID: 562237535}
+  - component: {fileID: 562237534}
   m_Layer: 0
   m_Name: unexplored (42)
   m_TagString: Untagged
@@ -3256,6 +4001,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 43
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &562237534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 562237531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &562237535
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3291,6 +4059,7 @@ GameObject:
   - component: {fileID: 572705630}
   - component: {fileID: 572705629}
   - component: {fileID: 572705632}
+  - component: {fileID: 572705631}
   m_Layer: 0
   m_Name: unexplored (43)
   m_TagString: Untagged
@@ -3355,6 +4124,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &572705631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 572705628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &572705632
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3390,6 +4182,7 @@ GameObject:
   - component: {fileID: 595729426}
   - component: {fileID: 595729425}
   - component: {fileID: 595729428}
+  - component: {fileID: 595729427}
   m_Layer: 0
   m_Name: unexplored (6)
   m_TagString: Untagged
@@ -3454,6 +4247,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &595729427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 595729424}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &595729428
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3489,6 +4305,7 @@ GameObject:
   - component: {fileID: 602183704}
   - component: {fileID: 602183703}
   - component: {fileID: 602183706}
+  - component: {fileID: 602183705}
   m_Layer: 0
   m_Name: unexplored (78)
   m_TagString: Untagged
@@ -3553,6 +4370,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 79
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &602183705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 602183702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &602183706
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3588,6 +4428,7 @@ GameObject:
   - component: {fileID: 606846020}
   - component: {fileID: 606846019}
   - component: {fileID: 606846022}
+  - component: {fileID: 606846021}
   m_Layer: 0
   m_Name: unexplored (89)
   m_TagString: Untagged
@@ -3652,6 +4493,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 90
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &606846021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 606846018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &606846022
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3687,6 +4551,7 @@ GameObject:
   - component: {fileID: 611600573}
   - component: {fileID: 611600572}
   - component: {fileID: 611600575}
+  - component: {fileID: 611600574}
   m_Layer: 0
   m_Name: unexplored (1)
   m_TagString: Untagged
@@ -3751,6 +4616,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &611600574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 611600571}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &611600575
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3786,6 +4674,7 @@ GameObject:
   - component: {fileID: 611787924}
   - component: {fileID: 611787923}
   - component: {fileID: 611787926}
+  - component: {fileID: 611787925}
   m_Layer: 0
   m_Name: unexplored (107)
   m_TagString: Untagged
@@ -3850,6 +4739,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 108
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &611787925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 611787922}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &611787926
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3885,6 +4797,7 @@ GameObject:
   - component: {fileID: 616218653}
   - component: {fileID: 616218652}
   - component: {fileID: 616218655}
+  - component: {fileID: 616218654}
   m_Layer: 0
   m_Name: unexplored (93)
   m_TagString: Untagged
@@ -3949,6 +4862,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 94
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &616218654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 616218651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &616218655
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3984,6 +4920,7 @@ GameObject:
   - component: {fileID: 619356972}
   - component: {fileID: 619356971}
   - component: {fileID: 619356974}
+  - component: {fileID: 619356973}
   m_Layer: 0
   m_Name: unexplored (17)
   m_TagString: Untagged
@@ -4048,6 +4985,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &619356973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 619356970}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &619356974
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4083,6 +5043,7 @@ GameObject:
   - component: {fileID: 661984593}
   - component: {fileID: 661984592}
   - component: {fileID: 661984595}
+  - component: {fileID: 661984594}
   m_Layer: 0
   m_Name: unexplored (3)
   m_TagString: Untagged
@@ -4147,6 +5108,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &661984594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 661984591}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &661984595
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4182,6 +5166,7 @@ GameObject:
   - component: {fileID: 663910485}
   - component: {fileID: 663910484}
   - component: {fileID: 663910487}
+  - component: {fileID: 663910486}
   m_Layer: 0
   m_Name: unexplored (12)
   m_TagString: Untagged
@@ -4246,6 +5231,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &663910486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 663910483}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &663910487
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4281,6 +5289,7 @@ GameObject:
   - component: {fileID: 668511693}
   - component: {fileID: 668511692}
   - component: {fileID: 668511695}
+  - component: {fileID: 668511694}
   m_Layer: 0
   m_Name: unexplored (11)
   m_TagString: Untagged
@@ -4345,6 +5354,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &668511694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 668511691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &668511695
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4380,6 +5412,7 @@ GameObject:
   - component: {fileID: 685052915}
   - component: {fileID: 685052914}
   - component: {fileID: 685052917}
+  - component: {fileID: 685052916}
   m_Layer: 0
   m_Name: unexplored (15)
   m_TagString: Untagged
@@ -4444,6 +5477,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &685052916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 685052913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &685052917
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4479,6 +5535,7 @@ GameObject:
   - component: {fileID: 720065166}
   - component: {fileID: 720065165}
   - component: {fileID: 720065168}
+  - component: {fileID: 720065167}
   m_Layer: 0
   m_Name: unexplored (91)
   m_TagString: Untagged
@@ -4543,6 +5600,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 92
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &720065167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 720065164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &720065168
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4578,6 +5658,7 @@ GameObject:
   - component: {fileID: 728617946}
   - component: {fileID: 728617945}
   - component: {fileID: 728617948}
+  - component: {fileID: 728617947}
   m_Layer: 0
   m_Name: unexplored (114)
   m_TagString: Untagged
@@ -4642,6 +5723,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 115
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &728617947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 728617944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &728617948
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4677,6 +5781,7 @@ GameObject:
   - component: {fileID: 730747681}
   - component: {fileID: 730747680}
   - component: {fileID: 730747683}
+  - component: {fileID: 730747682}
   m_Layer: 0
   m_Name: unexplored (35)
   m_TagString: Untagged
@@ -4741,6 +5846,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &730747682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 730747679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &730747683
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4776,6 +5904,7 @@ GameObject:
   - component: {fileID: 750573967}
   - component: {fileID: 750573966}
   - component: {fileID: 750573969}
+  - component: {fileID: 750573968}
   m_Layer: 0
   m_Name: unexplored (27)
   m_TagString: Untagged
@@ -4840,6 +5969,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &750573968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 750573965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &750573969
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4875,6 +6027,7 @@ GameObject:
   - component: {fileID: 751205552}
   - component: {fileID: 751205551}
   - component: {fileID: 751205554}
+  - component: {fileID: 751205553}
   m_Layer: 0
   m_Name: unexplored (72)
   m_TagString: Untagged
@@ -4939,6 +6092,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 73
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &751205553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 751205550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &751205554
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4974,6 +6150,7 @@ GameObject:
   - component: {fileID: 764368565}
   - component: {fileID: 764368564}
   - component: {fileID: 764368567}
+  - component: {fileID: 764368566}
   m_Layer: 0
   m_Name: unexplored (47)
   m_TagString: Untagged
@@ -5038,6 +6215,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 48
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &764368566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 764368563}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &764368567
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5073,6 +6273,7 @@ GameObject:
   - component: {fileID: 764566138}
   - component: {fileID: 764566137}
   - component: {fileID: 764566140}
+  - component: {fileID: 764566139}
   m_Layer: 0
   m_Name: unexplored (66)
   m_TagString: Untagged
@@ -5137,6 +6338,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 67
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &764566139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 764566136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &764566140
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5172,6 +6396,7 @@ GameObject:
   - component: {fileID: 772602015}
   - component: {fileID: 772602014}
   - component: {fileID: 772602017}
+  - component: {fileID: 772602016}
   m_Layer: 0
   m_Name: unexplored (39)
   m_TagString: Untagged
@@ -5236,6 +6461,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &772602016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 772602013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &772602017
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5271,6 +6519,7 @@ GameObject:
   - component: {fileID: 838759173}
   - component: {fileID: 838759172}
   - component: {fileID: 838759175}
+  - component: {fileID: 838759174}
   m_Layer: 0
   m_Name: unexplored (24)
   m_TagString: Untagged
@@ -5335,6 +6584,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &838759174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 838759171}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &838759175
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5370,6 +6642,7 @@ GameObject:
   - component: {fileID: 850662228}
   - component: {fileID: 850662227}
   - component: {fileID: 850662230}
+  - component: {fileID: 850662229}
   m_Layer: 0
   m_Name: unexplored (4)
   m_TagString: Untagged
@@ -5434,6 +6707,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &850662229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 850662226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &850662230
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5469,6 +6765,7 @@ GameObject:
   - component: {fileID: 860941453}
   - component: {fileID: 860941452}
   - component: {fileID: 860941455}
+  - component: {fileID: 860941454}
   m_Layer: 0
   m_Name: unexplored (70)
   m_TagString: Untagged
@@ -5533,6 +6830,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 71
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &860941454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 860941451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &860941455
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5568,6 +6888,7 @@ GameObject:
   - component: {fileID: 863683615}
   - component: {fileID: 863683614}
   - component: {fileID: 863683617}
+  - component: {fileID: 863683616}
   m_Layer: 0
   m_Name: unexplored (120)
   m_TagString: Untagged
@@ -5632,6 +6953,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 121
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &863683616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 863683613}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &863683617
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5667,6 +7011,7 @@ GameObject:
   - component: {fileID: 883147161}
   - component: {fileID: 883147160}
   - component: {fileID: 883147163}
+  - component: {fileID: 883147162}
   m_Layer: 0
   m_Name: unexplored (111)
   m_TagString: Untagged
@@ -5731,6 +7076,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 112
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &883147162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 883147159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &883147163
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5766,6 +7134,7 @@ GameObject:
   - component: {fileID: 898610499}
   - component: {fileID: 898610498}
   - component: {fileID: 898610501}
+  - component: {fileID: 898610500}
   m_Layer: 0
   m_Name: unexplored (112)
   m_TagString: Untagged
@@ -5830,6 +7199,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 113
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &898610500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 898610497}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &898610501
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5866,6 +7258,7 @@ GameObject:
   - component: {fileID: 910746087}
   - component: {fileID: 910746086}
   - component: {fileID: 910746088}
+  - component: {fileID: 910746085}
   m_Layer: 0
   m_Name: unexplored
   m_TagString: Untagged
@@ -5873,6 +7266,29 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &910746085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 910746084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!212 &910746086
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5967,6 +7383,7 @@ GameObject:
   - component: {fileID: 927264025}
   - component: {fileID: 927264024}
   - component: {fileID: 927264027}
+  - component: {fileID: 927264026}
   m_Layer: 0
   m_Name: unexplored (100)
   m_TagString: Untagged
@@ -6031,6 +7448,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 101
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &927264026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 927264023}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &927264027
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6066,6 +7506,7 @@ GameObject:
   - component: {fileID: 929792426}
   - component: {fileID: 929792425}
   - component: {fileID: 929792428}
+  - component: {fileID: 929792427}
   m_Layer: 0
   m_Name: unexplored (16)
   m_TagString: Untagged
@@ -6130,6 +7571,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &929792427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 929792424}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &929792428
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6165,6 +7629,7 @@ GameObject:
   - component: {fileID: 965507464}
   - component: {fileID: 965507463}
   - component: {fileID: 965507466}
+  - component: {fileID: 965507465}
   m_Layer: 0
   m_Name: unexplored (52)
   m_TagString: Untagged
@@ -6229,6 +7694,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 53
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &965507465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 965507462}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &965507466
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6264,6 +7752,7 @@ GameObject:
   - component: {fileID: 996886243}
   - component: {fileID: 996886242}
   - component: {fileID: 996886245}
+  - component: {fileID: 996886244}
   m_Layer: 0
   m_Name: unexplored (87)
   m_TagString: Untagged
@@ -6328,6 +7817,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 88
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &996886244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 996886241}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &996886245
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6363,6 +7875,7 @@ GameObject:
   - component: {fileID: 1015113618}
   - component: {fileID: 1015113617}
   - component: {fileID: 1015113620}
+  - component: {fileID: 1015113619}
   m_Layer: 0
   m_Name: unexplored (113)
   m_TagString: Untagged
@@ -6427,6 +7940,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 114
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1015113619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1015113616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1015113620
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6462,6 +7998,7 @@ GameObject:
   - component: {fileID: 1033748933}
   - component: {fileID: 1033748932}
   - component: {fileID: 1033748935}
+  - component: {fileID: 1033748934}
   m_Layer: 0
   m_Name: unexplored (14)
   m_TagString: Untagged
@@ -6526,6 +8063,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1033748934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1033748931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1033748935
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6561,6 +8121,7 @@ GameObject:
   - component: {fileID: 1078453634}
   - component: {fileID: 1078453633}
   - component: {fileID: 1078453636}
+  - component: {fileID: 1078453635}
   m_Layer: 0
   m_Name: unexplored (59)
   m_TagString: Untagged
@@ -6625,6 +8186,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 60
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1078453635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1078453632}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1078453636
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6660,6 +8244,7 @@ GameObject:
   - component: {fileID: 1094347559}
   - component: {fileID: 1094347558}
   - component: {fileID: 1094347561}
+  - component: {fileID: 1094347560}
   m_Layer: 0
   m_Name: unexplored (105)
   m_TagString: Untagged
@@ -6724,6 +8309,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 106
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1094347560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1094347557}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1094347561
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6759,6 +8367,7 @@ GameObject:
   - component: {fileID: 1120721541}
   - component: {fileID: 1120721540}
   - component: {fileID: 1120721543}
+  - component: {fileID: 1120721542}
   m_Layer: 0
   m_Name: unexplored (126)
   m_TagString: Untagged
@@ -6823,6 +8432,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 127
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1120721542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1120721539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1120721543
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6858,6 +8490,7 @@ GameObject:
   - component: {fileID: 1129376410}
   - component: {fileID: 1129376409}
   - component: {fileID: 1129376412}
+  - component: {fileID: 1129376411}
   m_Layer: 0
   m_Name: unexplored (58)
   m_TagString: Untagged
@@ -6922,6 +8555,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 59
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1129376411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1129376408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1129376412
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6957,6 +8613,7 @@ GameObject:
   - component: {fileID: 1132744748}
   - component: {fileID: 1132744747}
   - component: {fileID: 1132744750}
+  - component: {fileID: 1132744749}
   m_Layer: 0
   m_Name: unexplored (30)
   m_TagString: Untagged
@@ -7021,6 +8678,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1132744749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1132744746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1132744750
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7056,6 +8736,7 @@ GameObject:
   - component: {fileID: 1134284495}
   - component: {fileID: 1134284494}
   - component: {fileID: 1134284497}
+  - component: {fileID: 1134284496}
   m_Layer: 0
   m_Name: unexplored (65)
   m_TagString: Untagged
@@ -7120,6 +8801,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 66
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1134284496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1134284493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1134284497
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7155,6 +8859,7 @@ GameObject:
   - component: {fileID: 1157763966}
   - component: {fileID: 1157763965}
   - component: {fileID: 1157763968}
+  - component: {fileID: 1157763967}
   m_Layer: 0
   m_Name: unexplored (103)
   m_TagString: Untagged
@@ -7219,6 +8924,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 104
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1157763967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1157763964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1157763968
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7254,6 +8982,7 @@ GameObject:
   - component: {fileID: 1176466335}
   - component: {fileID: 1176466334}
   - component: {fileID: 1176466337}
+  - component: {fileID: 1176466336}
   m_Layer: 0
   m_Name: unexplored (109)
   m_TagString: Untagged
@@ -7318,6 +9047,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 110
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1176466336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1176466333}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1176466337
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7353,6 +9105,7 @@ GameObject:
   - component: {fileID: 1182816672}
   - component: {fileID: 1182816671}
   - component: {fileID: 1182816674}
+  - component: {fileID: 1182816673}
   m_Layer: 0
   m_Name: unexplored (9)
   m_TagString: Untagged
@@ -7417,6 +9170,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1182816673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1182816670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1182816674
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7452,6 +9228,7 @@ GameObject:
   - component: {fileID: 1190332648}
   - component: {fileID: 1190332647}
   - component: {fileID: 1190332650}
+  - component: {fileID: 1190332649}
   m_Layer: 0
   m_Name: unexplored (129)
   m_TagString: Untagged
@@ -7516,6 +9293,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 130
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1190332649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1190332646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1190332650
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7551,6 +9351,7 @@ GameObject:
   - component: {fileID: 1226112627}
   - component: {fileID: 1226112626}
   - component: {fileID: 1226112629}
+  - component: {fileID: 1226112628}
   m_Layer: 0
   m_Name: unexplored (69)
   m_TagString: Untagged
@@ -7615,6 +9416,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 70
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1226112628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1226112625}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1226112629
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7650,6 +9474,7 @@ GameObject:
   - component: {fileID: 1244428515}
   - component: {fileID: 1244428514}
   - component: {fileID: 1244428517}
+  - component: {fileID: 1244428516}
   m_Layer: 0
   m_Name: unexplored (51)
   m_TagString: Untagged
@@ -7714,6 +9539,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 52
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1244428516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1244428513}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1244428517
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7749,6 +9597,7 @@ GameObject:
   - component: {fileID: 1248182798}
   - component: {fileID: 1248182797}
   - component: {fileID: 1248182800}
+  - component: {fileID: 1248182799}
   m_Layer: 0
   m_Name: unexplored (127)
   m_TagString: Untagged
@@ -7813,6 +9662,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 128
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1248182799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1248182796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1248182800
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7848,6 +9720,7 @@ GameObject:
   - component: {fileID: 1264845365}
   - component: {fileID: 1264845364}
   - component: {fileID: 1264845367}
+  - component: {fileID: 1264845366}
   m_Layer: 0
   m_Name: unexplored (88)
   m_TagString: Untagged
@@ -7912,6 +9785,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 89
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1264845366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1264845363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1264845367
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7947,6 +9843,7 @@ GameObject:
   - component: {fileID: 1274348053}
   - component: {fileID: 1274348052}
   - component: {fileID: 1274348055}
+  - component: {fileID: 1274348054}
   m_Layer: 0
   m_Name: unexplored (75)
   m_TagString: Untagged
@@ -8011,6 +9908,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 76
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1274348054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1274348051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1274348055
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8046,6 +9966,7 @@ GameObject:
   - component: {fileID: 1285543595}
   - component: {fileID: 1285543594}
   - component: {fileID: 1285543597}
+  - component: {fileID: 1285543596}
   m_Layer: 0
   m_Name: unexplored (13)
   m_TagString: Untagged
@@ -8110,6 +10031,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1285543596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1285543593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1285543597
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8145,6 +10089,7 @@ GameObject:
   - component: {fileID: 1289099093}
   - component: {fileID: 1289099092}
   - component: {fileID: 1289099095}
+  - component: {fileID: 1289099094}
   m_Layer: 0
   m_Name: unexplored (74)
   m_TagString: Untagged
@@ -8209,6 +10154,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 75
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1289099094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1289099091}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1289099095
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8244,6 +10212,7 @@ GameObject:
   - component: {fileID: 1296092368}
   - component: {fileID: 1296092367}
   - component: {fileID: 1296092370}
+  - component: {fileID: 1296092369}
   m_Layer: 0
   m_Name: unexplored (33)
   m_TagString: Untagged
@@ -8308,6 +10277,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1296092369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1296092366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1296092370
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8343,6 +10335,7 @@ GameObject:
   - component: {fileID: 1297664306}
   - component: {fileID: 1297664305}
   - component: {fileID: 1297664308}
+  - component: {fileID: 1297664307}
   m_Layer: 0
   m_Name: unexplored (26)
   m_TagString: Untagged
@@ -8407,6 +10400,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1297664307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1297664304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1297664308
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8442,6 +10458,7 @@ GameObject:
   - component: {fileID: 1308582408}
   - component: {fileID: 1308582407}
   - component: {fileID: 1308582410}
+  - component: {fileID: 1308582409}
   m_Layer: 0
   m_Name: unexplored (54)
   m_TagString: Untagged
@@ -8506,6 +10523,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 55
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1308582409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1308582406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1308582410
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8541,6 +10581,7 @@ GameObject:
   - component: {fileID: 1322776715}
   - component: {fileID: 1322776714}
   - component: {fileID: 1322776717}
+  - component: {fileID: 1322776716}
   m_Layer: 0
   m_Name: unexplored (21)
   m_TagString: Untagged
@@ -8605,6 +10646,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1322776716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1322776713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1322776717
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8640,6 +10704,7 @@ GameObject:
   - component: {fileID: 1329600193}
   - component: {fileID: 1329600192}
   - component: {fileID: 1329600195}
+  - component: {fileID: 1329600194}
   m_Layer: 0
   m_Name: unexplored (71)
   m_TagString: Untagged
@@ -8704,6 +10769,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 72
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1329600194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1329600191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1329600195
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8739,6 +10827,7 @@ GameObject:
   - component: {fileID: 1331864586}
   - component: {fileID: 1331864585}
   - component: {fileID: 1331864588}
+  - component: {fileID: 1331864587}
   m_Layer: 0
   m_Name: unexplored (95)
   m_TagString: Untagged
@@ -8803,6 +10892,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 96
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1331864587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1331864584}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1331864588
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8838,6 +10950,7 @@ GameObject:
   - component: {fileID: 1343433849}
   - component: {fileID: 1343433848}
   - component: {fileID: 1343433851}
+  - component: {fileID: 1343433850}
   m_Layer: 0
   m_Name: unexplored (77)
   m_TagString: Untagged
@@ -8902,6 +11015,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 78
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1343433850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1343433847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1343433851
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8937,6 +11073,7 @@ GameObject:
   - component: {fileID: 1388952835}
   - component: {fileID: 1388952834}
   - component: {fileID: 1388952837}
+  - component: {fileID: 1388952836}
   m_Layer: 0
   m_Name: unexplored (19)
   m_TagString: Untagged
@@ -9001,6 +11138,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1388952836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1388952833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1388952837
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9036,6 +11196,7 @@ GameObject:
   - component: {fileID: 1399122209}
   - component: {fileID: 1399122208}
   - component: {fileID: 1399122211}
+  - component: {fileID: 1399122210}
   m_Layer: 0
   m_Name: unexplored (64)
   m_TagString: Untagged
@@ -9100,6 +11261,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 65
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1399122210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1399122207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1399122211
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9135,6 +11319,7 @@ GameObject:
   - component: {fileID: 1399811004}
   - component: {fileID: 1399811003}
   - component: {fileID: 1399811006}
+  - component: {fileID: 1399811005}
   m_Layer: 0
   m_Name: unexplored (32)
   m_TagString: Untagged
@@ -9199,6 +11384,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1399811005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1399811002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1399811006
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9234,6 +11442,7 @@ GameObject:
   - component: {fileID: 1426590388}
   - component: {fileID: 1426590387}
   - component: {fileID: 1426590390}
+  - component: {fileID: 1426590389}
   m_Layer: 0
   m_Name: unexplored (18)
   m_TagString: Untagged
@@ -9298,6 +11507,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1426590389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1426590386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1426590390
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9333,6 +11565,7 @@ GameObject:
   - component: {fileID: 1439305817}
   - component: {fileID: 1439305816}
   - component: {fileID: 1439305819}
+  - component: {fileID: 1439305818}
   m_Layer: 0
   m_Name: unexplored (128)
   m_TagString: Untagged
@@ -9397,6 +11630,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 129
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1439305818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1439305815}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1439305819
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9432,6 +11688,7 @@ GameObject:
   - component: {fileID: 1453906163}
   - component: {fileID: 1453906162}
   - component: {fileID: 1453906165}
+  - component: {fileID: 1453906164}
   m_Layer: 0
   m_Name: unexplored (68)
   m_TagString: Untagged
@@ -9496,6 +11753,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 69
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1453906164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1453906161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1453906165
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9531,6 +11811,7 @@ GameObject:
   - component: {fileID: 1457722527}
   - component: {fileID: 1457722526}
   - component: {fileID: 1457722529}
+  - component: {fileID: 1457722528}
   m_Layer: 0
   m_Name: unexplored (90)
   m_TagString: Untagged
@@ -9595,6 +11876,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 91
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1457722528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1457722525}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1457722529
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9630,6 +11934,7 @@ GameObject:
   - component: {fileID: 1489829701}
   - component: {fileID: 1489829700}
   - component: {fileID: 1489829703}
+  - component: {fileID: 1489829702}
   m_Layer: 0
   m_Name: unexplored (104)
   m_TagString: Untagged
@@ -9694,6 +11999,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 105
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1489829702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1489829699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1489829703
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9729,6 +12057,7 @@ GameObject:
   - component: {fileID: 1506192388}
   - component: {fileID: 1506192387}
   - component: {fileID: 1506192390}
+  - component: {fileID: 1506192389}
   m_Layer: 0
   m_Name: unexplored (122)
   m_TagString: Untagged
@@ -9793,6 +12122,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 123
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1506192389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1506192386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1506192390
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9828,6 +12180,7 @@ GameObject:
   - component: {fileID: 1555221369}
   - component: {fileID: 1555221368}
   - component: {fileID: 1555221371}
+  - component: {fileID: 1555221370}
   m_Layer: 0
   m_Name: unexplored (63)
   m_TagString: Untagged
@@ -9892,6 +12245,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 64
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1555221370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1555221367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1555221371
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9927,6 +12303,7 @@ GameObject:
   - component: {fileID: 1582817216}
   - component: {fileID: 1582817215}
   - component: {fileID: 1582817218}
+  - component: {fileID: 1582817217}
   m_Layer: 0
   m_Name: unexplored (49)
   m_TagString: Untagged
@@ -9991,6 +12368,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 50
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1582817217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1582817214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1582817218
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10026,6 +12426,7 @@ GameObject:
   - component: {fileID: 1594915513}
   - component: {fileID: 1594915512}
   - component: {fileID: 1594915515}
+  - component: {fileID: 1594915514}
   m_Layer: 0
   m_Name: unexplored (57)
   m_TagString: Untagged
@@ -10090,6 +12491,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 58
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1594915514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1594915511}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1594915515
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10125,6 +12549,7 @@ GameObject:
   - component: {fileID: 1644724594}
   - component: {fileID: 1644724593}
   - component: {fileID: 1644724596}
+  - component: {fileID: 1644724595}
   m_Layer: 0
   m_Name: unexplored (99)
   m_TagString: Untagged
@@ -10189,6 +12614,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 100
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1644724595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1644724592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1644724596
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10224,6 +12672,7 @@ GameObject:
   - component: {fileID: 1645189077}
   - component: {fileID: 1645189076}
   - component: {fileID: 1645189079}
+  - component: {fileID: 1645189078}
   m_Layer: 0
   m_Name: unexplored (36)
   m_TagString: Untagged
@@ -10288,6 +12737,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1645189078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1645189075}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1645189079
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10323,6 +12795,7 @@ GameObject:
   - component: {fileID: 1665927941}
   - component: {fileID: 1665927940}
   - component: {fileID: 1665927943}
+  - component: {fileID: 1665927942}
   m_Layer: 0
   m_Name: unexplored (62)
   m_TagString: Untagged
@@ -10387,6 +12860,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 63
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1665927942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1665927939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1665927943
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10422,6 +12918,7 @@ GameObject:
   - component: {fileID: 1680229997}
   - component: {fileID: 1680229996}
   - component: {fileID: 1680229999}
+  - component: {fileID: 1680229998}
   m_Layer: 0
   m_Name: unexplored (82)
   m_TagString: Untagged
@@ -10486,6 +12983,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 83
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1680229998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1680229995}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1680229999
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10521,6 +13041,7 @@ GameObject:
   - component: {fileID: 1728773465}
   - component: {fileID: 1728773464}
   - component: {fileID: 1728773467}
+  - component: {fileID: 1728773466}
   m_Layer: 0
   m_Name: unexplored (5)
   m_TagString: Untagged
@@ -10585,6 +13106,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1728773466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1728773463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1728773467
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10620,6 +13164,7 @@ GameObject:
   - component: {fileID: 1741455262}
   - component: {fileID: 1741455261}
   - component: {fileID: 1741455264}
+  - component: {fileID: 1741455263}
   m_Layer: 0
   m_Name: unexplored (84)
   m_TagString: Untagged
@@ -10684,6 +13229,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 85
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1741455263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1741455260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1741455264
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10719,6 +13287,7 @@ GameObject:
   - component: {fileID: 1774693187}
   - component: {fileID: 1774693186}
   - component: {fileID: 1774693189}
+  - component: {fileID: 1774693188}
   m_Layer: 0
   m_Name: unexplored (96)
   m_TagString: Untagged
@@ -10783,6 +13352,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 97
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1774693188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1774693185}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1774693189
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10861,6 +13453,7 @@ GameObject:
   - component: {fileID: 1885266691}
   - component: {fileID: 1885266690}
   - component: {fileID: 1885266693}
+  - component: {fileID: 1885266692}
   m_Layer: 0
   m_Name: unexplored (22)
   m_TagString: Untagged
@@ -10925,6 +13518,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1885266692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1885266689}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1885266693
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10960,6 +13576,7 @@ GameObject:
   - component: {fileID: 1886644848}
   - component: {fileID: 1886644847}
   - component: {fileID: 1886644850}
+  - component: {fileID: 1886644849}
   m_Layer: 0
   m_Name: unexplored (92)
   m_TagString: Untagged
@@ -11024,6 +13641,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 93
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1886644849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1886644846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1886644850
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11059,6 +13699,7 @@ GameObject:
   - component: {fileID: 1897211850}
   - component: {fileID: 1897211849}
   - component: {fileID: 1897211852}
+  - component: {fileID: 1897211851}
   m_Layer: 0
   m_Name: unexplored (110)
   m_TagString: Untagged
@@ -11123,6 +13764,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 111
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1897211851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1897211848}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1897211852
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11239,6 +13903,7 @@ GameObject:
   - component: {fileID: 1907091207}
   - component: {fileID: 1907091206}
   - component: {fileID: 1907091209}
+  - component: {fileID: 1907091208}
   m_Layer: 0
   m_Name: unexplored (118)
   m_TagString: Untagged
@@ -11303,6 +13968,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 119
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1907091208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1907091205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1907091209
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11338,6 +14026,7 @@ GameObject:
   - component: {fileID: 1919218175}
   - component: {fileID: 1919218174}
   - component: {fileID: 1919218177}
+  - component: {fileID: 1919218176}
   m_Layer: 0
   m_Name: unexplored (8)
   m_TagString: Untagged
@@ -11402,6 +14091,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1919218176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1919218173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1919218177
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11437,6 +14149,7 @@ GameObject:
   - component: {fileID: 1928114929}
   - component: {fileID: 1928114928}
   - component: {fileID: 1928114931}
+  - component: {fileID: 1928114930}
   m_Layer: 0
   m_Name: unexplored (117)
   m_TagString: Untagged
@@ -11501,6 +14214,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 118
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1928114930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1928114927}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1928114931
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11536,6 +14272,7 @@ GameObject:
   - component: {fileID: 1947788076}
   - component: {fileID: 1947788075}
   - component: {fileID: 1947788078}
+  - component: {fileID: 1947788077}
   m_Layer: 0
   m_Name: unexplored (10)
   m_TagString: Untagged
@@ -11600,6 +14337,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1947788077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1947788074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1947788078
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11635,6 +14395,7 @@ GameObject:
   - component: {fileID: 1968120202}
   - component: {fileID: 1968120201}
   - component: {fileID: 1968120204}
+  - component: {fileID: 1968120203}
   m_Layer: 0
   m_Name: unexplored (44)
   m_TagString: Untagged
@@ -11699,6 +14460,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 45
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1968120203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1968120200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1968120204
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11734,6 +14518,7 @@ GameObject:
   - component: {fileID: 1969421039}
   - component: {fileID: 1969421038}
   - component: {fileID: 1969421041}
+  - component: {fileID: 1969421040}
   m_Layer: 0
   m_Name: unexplored (86)
   m_TagString: Untagged
@@ -11798,6 +14583,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 87
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1969421040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1969421037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1969421041
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11833,6 +14641,7 @@ GameObject:
   - component: {fileID: 1973919193}
   - component: {fileID: 1973919192}
   - component: {fileID: 1973919195}
+  - component: {fileID: 1973919194}
   m_Layer: 0
   m_Name: unexplored (79)
   m_TagString: Untagged
@@ -11897,6 +14706,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 80
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1973919194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1973919191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1973919195
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11932,6 +14764,7 @@ GameObject:
   - component: {fileID: 1982582069}
   - component: {fileID: 1982582068}
   - component: {fileID: 1982582071}
+  - component: {fileID: 1982582070}
   m_Layer: 0
   m_Name: unexplored (56)
   m_TagString: Untagged
@@ -11996,6 +14829,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 57
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1982582070
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1982582067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &1982582071
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12031,6 +14887,7 @@ GameObject:
   - component: {fileID: 2000592706}
   - component: {fileID: 2000592705}
   - component: {fileID: 2000592708}
+  - component: {fileID: 2000592707}
   m_Layer: 0
   m_Name: unexplored (121)
   m_TagString: Untagged
@@ -12095,6 +14952,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 122
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2000592707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2000592704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &2000592708
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12130,6 +15010,7 @@ GameObject:
   - component: {fileID: 2027244600}
   - component: {fileID: 2027244599}
   - component: {fileID: 2027244602}
+  - component: {fileID: 2027244601}
   m_Layer: 0
   m_Name: unexplored (80)
   m_TagString: Untagged
@@ -12194,6 +15075,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 81
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2027244601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2027244598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &2027244602
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12229,6 +15133,7 @@ GameObject:
   - component: {fileID: 2046549310}
   - component: {fileID: 2046549309}
   - component: {fileID: 2046549312}
+  - component: {fileID: 2046549311}
   m_Layer: 0
   m_Name: unexplored (97)
   m_TagString: Untagged
@@ -12293,6 +15198,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 98
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2046549311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2046549308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &2046549312
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12328,6 +15256,7 @@ GameObject:
   - component: {fileID: 2076484610}
   - component: {fileID: 2076484609}
   - component: {fileID: 2076484612}
+  - component: {fileID: 2076484611}
   m_Layer: 0
   m_Name: unexplored (23)
   m_TagString: Untagged
@@ -12392,6 +15321,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2076484611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2076484608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &2076484612
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12427,6 +15379,7 @@ GameObject:
   - component: {fileID: 2088099058}
   - component: {fileID: 2088099057}
   - component: {fileID: 2088099060}
+  - component: {fileID: 2088099059}
   m_Layer: 0
   m_Name: unexplored (50)
   m_TagString: Untagged
@@ -12491,6 +15444,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 51
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2088099059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2088099056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &2088099060
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12526,6 +15502,7 @@ GameObject:
   - component: {fileID: 2089053365}
   - component: {fileID: 2089053364}
   - component: {fileID: 2089053367}
+  - component: {fileID: 2089053366}
   m_Layer: 0
   m_Name: unexplored (106)
   m_TagString: Untagged
@@ -12590,6 +15567,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 107
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2089053366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2089053363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &2089053367
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12625,6 +15625,7 @@ GameObject:
   - component: {fileID: 2095185067}
   - component: {fileID: 2095185066}
   - component: {fileID: 2095185069}
+  - component: {fileID: 2095185068}
   m_Layer: 0
   m_Name: unexplored (81)
   m_TagString: Untagged
@@ -12689,6 +15690,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 82
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2095185068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2095185065}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &2095185069
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12724,6 +15748,7 @@ GameObject:
   - component: {fileID: 2106963453}
   - component: {fileID: 2106963452}
   - component: {fileID: 2106963455}
+  - component: {fileID: 2106963454}
   m_Layer: 0
   m_Name: unexplored (37)
   m_TagString: Untagged
@@ -12788,6 +15813,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2106963454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2106963451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &2106963455
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12823,6 +15871,7 @@ GameObject:
   - component: {fileID: 2113563134}
   - component: {fileID: 2113563133}
   - component: {fileID: 2113563136}
+  - component: {fileID: 2113563135}
   m_Layer: 0
   m_Name: unexplored (123)
   m_TagString: Untagged
@@ -12887,6 +15936,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 124
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2113563135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2113563132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &2113563136
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12922,6 +15994,7 @@ GameObject:
   - component: {fileID: 2126269443}
   - component: {fileID: 2126269442}
   - component: {fileID: 2126269445}
+  - component: {fileID: 2126269444}
   m_Layer: 0
   m_Name: unexplored (61)
   m_TagString: Untagged
@@ -12986,6 +16059,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 62
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2126269444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2126269441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &2126269445
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13021,6 +16117,7 @@ GameObject:
   - component: {fileID: 2144312752}
   - component: {fileID: 2144312751}
   - component: {fileID: 2144312754}
+  - component: {fileID: 2144312753}
   m_Layer: 0
   m_Name: unexplored (46)
   m_TagString: Untagged
@@ -13085,6 +16182,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 47
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2144312753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2144312750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004204fe2ed416438606e7be4856bc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mine: 0
+  emptyTextures:
+  - {fileID: 21300000, guid: 026d6f632457c174fa0f0786575c954b, type: 3}
+  - {fileID: 21300000, guid: 2712333aad98808439e8b4cac94d006a, type: 3}
+  - {fileID: 21300000, guid: f101c2a23379d9e4db4c9a2571edcfc2, type: 3}
+  - {fileID: 21300000, guid: d98ef86b6a54a914aa19af10a5c28cd7, type: 3}
+  - {fileID: 21300000, guid: 4df23f47db9b82a44ba060f2d04ee710, type: 3}
+  - {fileID: 21300000, guid: a465adac03ba23a43a74d9b9a50cf4ff, type: 3}
+  - {fileID: 21300000, guid: 900b2e7392198234da928b716ded7f72, type: 3}
+  - {fileID: 21300000, guid: 7ff4644ff753a1b41a557a0a93c4b671, type: 3}
+  - {fileID: 21300000, guid: 511c1d8ac909c8740910e0bec19d43ea, type: 3}
+  mineTexture: {fileID: 21300000, guid: 9c91c667100d5034abd204bdedc868e5, type: 3}
 --- !u!61 &2144312754
 BoxCollider2D:
   m_ObjectHideFlags: 0
