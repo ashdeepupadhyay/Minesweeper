@@ -43,7 +43,14 @@ public class Elements : MonoBehaviour {
             int x = (int)transform.position.x;
             int y = (int)transform.position.y;
             LoadTextures(Grid.AdjacentMines(x, y));
-            
+            Grid.FloodFillUncover(x, y, new bool[Grid.w, Grid.h]);
+            Debug.Log("i am clicked" + Grid.AdjacentMines(x, y));
+
+            if (Grid.IsFinished())
+            {
+                Debug.Log("YOU WIN");
+            }
+
         }
     }
 }
